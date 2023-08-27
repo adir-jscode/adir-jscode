@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarafat Ali Adir</h1>
-<h3 align="center">I'm a Software Developer</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" alt="adir-jscode" /></a> </p>
 
