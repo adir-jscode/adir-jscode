@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarafat Ali Adir</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" alt="adir-jscode" /></a> </p>
+<p align ="center">
+<img src ="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="350">
+</p>
 
 - 🌱 I’m currently learning **C# & .NET CORE**
 
